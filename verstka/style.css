@@ -406,6 +406,12 @@ body {
           justify-content: space-between;
 }
 
+.qualitys__img {
+  width: 100px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
 .qualitys__item {
   padding-top: 105px;
   padding-bottom: 105px;
@@ -1478,3 +1484,4 @@ summary::-webkit-details-marker {
   color: #000000;
   margin-bottom: 16px;
 }
+/*# sourceMappingURL=style.css.map */
